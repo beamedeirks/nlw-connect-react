@@ -1,0 +1,8 @@
+-- Aula 1
+Nessa aula, vamos dar o primeiro passo no desenvolvimento do nosso projeto. Vamos utilizar Vite + Typescript para criar o nosso projeto React, e em seguida já configurar o Tailwind e Biome. Além disso, vamos organizar a estrutura do projeto e criar nossos primeiros componentes seguindo o Style Guide. Por fim, vamos criar a interface da página principal da nossa aplicação.
+
+npx create-next-app@latest --empyt
+
+npm install tailwindcss @tailwindcss/postcss postcss
+
+Aula 1 - 31:21
