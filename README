@@ -5,4 +5,7 @@ npx create-next-app@latest --empyt
 
 npm install tailwindcss @tailwindcss/postcss postcss
 
-Aula 1 - 31:21
+Icons:
+npm install lucide-react
+
+Aula 1 - 42:23
