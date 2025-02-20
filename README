@@ -8,4 +8,27 @@ npm install tailwindcss @tailwindcss/postcss postcss
 Icons:
 npm install lucide-react
 
-Aula 1 - 42:23
+npm i @biomejs/biome -D
+Extension: Biome - Uma especie de SLint, arruma o projeto
+npx @biomejs/biome init
+
+Configuração feita em settings.json:
+{
+  "editor.defaultFormatter": "<other formatter>",
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports.biome": "explicit"
+  },
+  "editor.formatOnSave": true
+}
+
+
+Aula 1 - 1:07:18
